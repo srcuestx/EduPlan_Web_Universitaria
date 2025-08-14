@@ -1,4 +1,4 @@
-# EduPlan Web-Universitaria
+# EduPlan: Web Universitaria
 Creado por: 
 Gloria Jireth Mosquera Rondón,
 Sebastián Luis Osorio,
