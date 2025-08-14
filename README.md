@@ -1,2 +1,6 @@
 # Web-Universitaria
-Creado por: Gloria Mosquera Rondón  Sebastián Luis Osorio  Sergio Cuesta Ortiz  Juan David Maldonado
+Creado por: 
+Gloria Jireth Mosquera Rondón
+Sebastián Luis Osorio
+Juan David Maldonado Castro
+Sergio Andrés Cuesta Ortiz
